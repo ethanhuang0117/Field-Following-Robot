@@ -34,5 +34,12 @@ An STM32 IR module enables manual override, while a time-of-flight sensor provid
 - Improved stability through iterative testing and tuning  
 
 
-## Media
-(Add demo video / images here)
+## Demo Video
+Short autonomous run of the robot.
+
+[Download/View Demo](media/demo.mp4)
+
+---
+
+## Robot
+![Robot](media/robot.jpg)
