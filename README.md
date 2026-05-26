@@ -39,7 +39,8 @@ Short autonomous run of the robot.
 
 [Download/View Demo](demo.mp4)
 
----
 
 ## Robot
-![Robot](robot.jpg)
+<p align="center">
+  <img src="robot.jpg" width="350">
+</p>
